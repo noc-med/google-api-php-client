@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/apiclient",
+    "name": "nocvp/apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
